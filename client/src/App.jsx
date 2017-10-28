@@ -18,6 +18,9 @@ const iconStyle = {
   display: 'none',
 };
 
+const loaderStyle = { margin: '200px auto', display: 'block' };
+
+
 class App extends Component {
   constructor(props) {
     super(props);
@@ -27,9 +30,14 @@ class App extends Component {
     };
   }
 
-  componentWillMount() {
 
+  componentWillMount = () => {
+    this.getItems().then((items) => {
+      this.setState({ isLoading: false, items });
+    });
   }
+
+  getItems = () => fetch('/items').then(response => response.json())
 
   render() {
     const items = this.state.items.map(value => (
@@ -39,7 +47,7 @@ class App extends Component {
 
     const loader = this.state.isLoading ? (
       <GridTile cols={12} >
-        <CircularProgress style={{ margin: '200px auto', display: 'block' }} />
+        <CircularProgress style={loaderStyle} />
       </GridTile>) : null;
 
     return (
