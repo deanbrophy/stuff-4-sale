@@ -1,0 +1,473 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> should match the snapshot 1`] = `
+<MuiThemeProvider>
+  <div>
+    <AppBar
+      iconStyleLeft={
+        Object {
+          "display": "none",
+        }
+      }
+      showMenuIconButton={true}
+      title="For Sale"
+      zDepth={1}
+    />
+    <div
+      style={
+        Object {
+          "margin": "30px auto",
+          "maxWidth": "1000px",
+        }
+      }
+    >
+      <GridList
+        cellHeight="auto"
+        cols={12}
+        padding={30}
+      >
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+        <GridTile
+          actionPosition="right"
+          cols={4}
+          containerElement={
+            <Paper
+              circle={false}
+              rounded={true}
+              transitionEnabled={true}
+              zDepth={1}
+            />
+          }
+          rows={1}
+          titleBackground="rgba(0, 0, 0, 0.4)"
+          titlePosition="bottom"
+        >
+          <Component
+            description="Here is a super rad bike that I just don't ride anymore . . ."
+            imgSrc="https://static.vecteezy.com/system/resources/previews/000/056/105/non_2x/dollar-sign-vector.jpg"
+            price="4.99"
+            title="Trek Bike"
+          />
+        </GridTile>
+      </GridList>
+    </div>
+  </div>
+</MuiThemeProvider>
+`;
